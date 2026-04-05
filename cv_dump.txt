@@ -1,0 +1,62 @@
+ABDUSELAM AHMED
+Addis Ababa•+251 946693599•Abduselamjibril78@gmail.com•
+linkedin.com/in/abduselam-jibril-641698371•https://github.com/Abduselamjibril
+full stack and mobile developer
+Full-Stack Software Engineer and Flutter Mobile Developer with over two years of progressive
+experience at Skylink Technologies. Specialized in building scalable web, mobile, and
+backend solutions including real-time systems, fintech integrations, live streaming platforms,
+and AI-driven applications. Delivered multiple production systems currently used by clients
+in Ethiopia.
+WORK EXPERIENCE
+Skylink Technologies•Addis Ababa, Ethiopia•07/2023 - Present
+Software Developer
+• Transitioned from internship to permanent full-time role; continue delivering full-stack
+web and mobile solutions for clients in Agile environment.
+• Engineered custom CMS platforms and dynamic React frontends for client websites
+(Jabulani Mehal Mercato and Kasma Islamic Organization).
+• Developed cross-platform Flutter mobile application for Basirah TV (now in production on
+Play Store) with persistent media player, real-time progress sync, and hybrid payment
+integration (Chapa + Stripe) powered by Laravel backend.
+Software Intern
+• Built secure user authentication system from scratch using PHP and MySQL.
+• Contributed to Learning Management System (LMS) development using WordPress and
+performed comprehensive system testing and bug reporting.
+• Provided client training and customer support on newly deployed systems.
+EDUCATION
+BSc in Software Engineering
+Adama Science and Technology University•Adama, Ethiopia•06/2025
+PROJECTS
+HOBBE Event Management System
+• Lead Flutter Developer & Full-Stack Engineer Enterprise-grade multi-tenant Event
+Management System for professional organizers.
+• Built real-time chat (Socket.io), WebRTC live streaming, Chapa payment gateway,
+automated PDF ticketing, and offline-first features using Flutter + Supabase + Firebase.
+Al-Faruk Multimedia Backend
+• Backend Architect & Lead Developer (Production – Play Store) Architected high-
+performance backend powering video streaming and spiritual content app.
+• Implemented Bunny.net HLS streaming, Tus resumable uploads, Chapa fintech with self-
+healing transactions, Redis caching (40% performance gain), NestJS, PostgreSQL, and
+RBAC.
+Cafe Arigato – Cafe POS & ERP System
+• Full-Stack Developer (Live in Production – Addis Ababa) Designed and deployed full Point-
+of-Sale and inventory system currently used daily by Cafe Arigato.
+• Features real-time order synchronization, automated COGS tracking, menu engineering
+analytics, React + Laravel, and custom Node.js thermal printer bridge.
+Basirah TV – Full-Stack Media Streaming Platform
+• Full-Stack Developer (Production – Play Store) Developed complete media & educational
+ecosystem (Flutter mobile app + Laravel API + React admin dashboard).
+• Includes persistent mini-player, real-time progress sync across devices, hybrid payments
+(Chapa + Stripe), and real-time analytics.
+Diabetic Aid – Intelligent Health Platform
+• Full-Stack & AI Developer (Graduation Capstone) Led full-stack Flutter app for Type 2
+diabetes management.
+• Integrated real-time vitals tracking, doctor-patient chat (Socket.io), Node.js backend, and
+Python machine-learning model (Scikit-learn) for risk prediction and personalized
+insights.
+SKILLS
+Languages: Dart, JavaScript, PHP, Python, SQL, TypeScript
+Frontend: Material- UI, Next. js, React, Redux, Tailwind  CSS
+Backend: GraphQL, Laravel, Nest. js, Node. js, REST  APIs
+Mobile: Dart, Flutter  ( BLoC,   Provider) 
+Databases: Firebase, MongoDB, MySQL, PostgreSQL, Redis, Supabase
+Tools & Others: Agile/ Scrum, Chapa  Payments, Docker, Git, Socket. io, WebRTC
